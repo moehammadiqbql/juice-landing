@@ -16,7 +16,8 @@
 }
 
 .jumbotron img {
-  width: 400px;
+  width: 300px;
+  margin-left: 30px;
 }
 
 .jumbotron .display-4 {
@@ -36,7 +37,7 @@
 
 /* Indicator */
 .jumbotron .indicator img {
-  margin-left: 120px;
+  margin-left: 130px;
   margin-top: 60px;
   width: 100px;
 }
@@ -68,6 +69,7 @@
   }
 
   .jumbotron img {
+    width: 400px;
     margin-top: -20px;
     margin-left: 30px;
   }
