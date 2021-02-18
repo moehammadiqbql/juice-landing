@@ -61,6 +61,11 @@
 
   .jumbotron .display-4 {
     margin-top: 60px;
+    text-align: left;
+  }
+
+  .jumbotron p {
+    text-align: left;
   }
 
   .jumbotron img {
