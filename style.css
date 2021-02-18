@@ -1,3 +1,10 @@
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .jumbotron img {
+    width: 300px;
+  }
+}
+
 /* Navbar */
 .navbar-brand {
   font-family: "Nunito", sans-serif;
@@ -16,8 +23,7 @@
 }
 
 .jumbotron img {
-  width: 300px;
-  margin-left: 30px;
+  width: 350px;
 }
 
 .jumbotron .display-4 {
@@ -37,7 +43,7 @@
 
 /* Indicator */
 .jumbotron .indicator img {
-  margin-left: 130px;
+  margin-left: 80px;
   margin-top: 60px;
   width: 100px;
 }
